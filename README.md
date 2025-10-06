@@ -1,16 +1,16 @@
-# 🐍 Sasuke Uchiha  
-
+# 🐍 Uchiha Arturo
 > *“Mi ambición es más fuerte que mi dolor.”*  
 
-[![Sharingan GIF](INSERT_GIF_URL_SHARINGAN_AQUI)]()  
+<img src="https://i.pinimg.com/originals/d2/d8/4a/d2d84af7e4c6b6c33a606d3127f4d31e.gif">
 
 ---
 
 ## 🕶️ Sobre mí  
-Soy **Sasuke Uchiha**, el último heredero de un linaje marcado por el poder y la tragedia.  
+Soy **Arturo Garcia**, el último heredero de un linaje marcado por el poder y la tragedia.  
 Mi propósito no es seguir el camino de los demás... sino **superar todos los límites**.  
 
 > No busco reconocimiento. Busco **perfección**.  
+<img src="https://media.tenor.com/zw9qpKwYlZgAAAAM/itachi-uchiha.gif">
 
 ---
 
