@@ -16,11 +16,11 @@ Mi propósito no es seguir el camino de los demás... sino **superar todos los l
 
 ## ⚙️ Habilidades  
 - 🩸 **Control del chakra (o del código):** precisión y disciplina.  
-- ⚔️ **Dominio técnico:** `Python`, `C++`, `Bash`, `Linux`, `Git`.  
+- ⚔️ **Dominio técnico:** `Python`, `Linux`
 - 🔥 **Especialidades:** automatización, optimización y depuración avanzada.  
 - 🧠 **Mentalidad:** fría, analítica y en constante evolución.  
 
-[![Susanoo Coding GIF](INSERT_GIF_URL_SUSANOO_AQUI)]()  
+<img src="https://i.pinimg.com/originals/03/f3/32/03f33264dd223198e49f3d46f6168a41.gif">
 
 ---
 
