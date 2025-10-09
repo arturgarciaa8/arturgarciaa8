@@ -23,14 +23,3 @@ Mi propósito no es seguir el camino de los demás... sino **superar todos los l
 <img src="https://i.pinimg.com/originals/03/f3/32/03f33264dd223198e49f3d46f6168a41.gif">
 
 ---
-
-## 🧩 Proyectos  
-- **Rebuild of Leaf Systems** — restaurando infraestructuras caídas. [Repositorio]()  
-- **Chidori Script** — ejecución veloz y letal. [Código]()  
-- **Dark Analytics** — análisis de datos con precisión milimétrica. [Demo]()  
-
-*(Rellena los enlaces `()` cuando los tengas.)*  
-
----
-
-## 📊 GitHub Stats  
